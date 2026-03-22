@@ -1,4 +1,3 @@
-import React from "react";
 import { Slider } from "./Slider";
 import type { Vehicle, SimulationParams } from "../simulation/types";
 import { LANE_COLORS } from "../simulation/constants";
